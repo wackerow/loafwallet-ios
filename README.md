@@ -5,7 +5,7 @@ Litewallet is the best way to get started with Litecoin. Our simple, streamlined
 
 ### Completely decentralized
 
-Unlike other iOS Litecoin wallets, **LoafWallet** is a standalone Litecoin client. It connects directly to the Litecoin network using [SPV](https://en.bitcoin.it/wiki/Thin_Client_Security#Header-Only_Clients) mode, and doesn't rely on servers that can be hacked or disabled. Even if LoafWallet is removed from the App Store, the app will continue to function, allowing users to access their money at any time.
+Unlike other iOS Litecoin wallets, **Litewallet** is a standalone Litecoin client. It connects directly to the Litecoin network using [SPV](https://en.bitcoin.it/wiki/Thin_Client_Security#Header-Only_Clients) mode, and doesn't rely on servers that can be hacked or disabled. Even if LoafWallet is removed from the App Store, the app will continue to function, allowing users to access their money at any time.
 
 ### Cutting-edge security
 
@@ -13,7 +13,7 @@ Unlike other iOS Litecoin wallets, **LoafWallet** is a standalone Litecoin clien
 
 ### Desgined with new users in mind
 
-Simplicity and ease-of-use is **LoafWallet**'s core design principle. A simple recovery phrase (which we call a paper key) is all that is needed to restore the user's wallet if they ever lose or replace their device. **LoafWallet** is [deterministic](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki), which means the user's balance and transaction history can be recovered just from the paper key.
+Simplicity and ease-of-use is **Litewallet**'s core design principle. A simple recovery phrase (which we call a paper key) is all that is needed to restore the user's wallet if they ever lose or replace their device. **Litewallet** is [deterministic](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki), which means the user's balance and transaction history can be recovered just from the paper key.
 
 ![screenshots](/images/screenshots.jpg)
 
@@ -29,7 +29,7 @@ Simplicity and ease-of-use is **LoafWallet**'s core design principle. A simple r
 
 ### Localization
 
-**LoafWallet** is available in the following languages:
+**Litewallet** is available in the following languages:
 
 - Chinese (Simplified and traditional)
 - Danish
@@ -53,6 +53,6 @@ Any jailbreak app can grant itself access to every other app's keychain data. Th
 
 ---
 
-**LoafWallet** is open source and available under the terms of the MIT license.
+**Litewallet** is open source and available under the terms of the MIT license.
 
 Source code is available at https://github.com/litecoin-foundation
