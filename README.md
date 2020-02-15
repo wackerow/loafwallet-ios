@@ -9,7 +9,7 @@ Unlike other iOS Litecoin wallets, **Litewallet** is a standalone Litecoin clien
 
 ### Cutting-edge security
 
-**LoafWallet** utilizes AES hardware encryption, app sandboxing, and the latest iOS security features to protect users from malware, browser security holes, and even physical theft. Private keys are stored only in the secure enclave of the user's phone, inaccessible to anyone other than the user.
+**Litewallet** utilizes AES hardware encryption, app sandboxing, and the latest iOS security features to protect users from malware, browser security holes, and even physical theft. Private keys are stored only in the secure enclave of the user's phone, inaccessible to anyone other than the user.
 
 ### Desgined with new users in mind
 
