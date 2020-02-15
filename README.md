@@ -53,6 +53,9 @@ Any jailbreak app can grant itself access to every other app's keychain data. Th
 
 ---
 
+### STATUS
+[![Loafwallet](https://circleci.com/gh/litecoin-foundation/loafwallet-ios.svg?style=shield)](https://circleci.com/gh/litecoin-foundation/loafwallet-ios) 
+
 **Litewallet** is open source and available under the terms of the MIT license.
 
 Source code is available at https://github.com/litecoin-foundation
