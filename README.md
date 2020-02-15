@@ -1,8 +1,7 @@
-[![LoafWallet](/images/Download_AppStore.png)](https://itunes.apple.com/us/app/loafwallet/id1119332592)
+## Litewallet: Official SPV Wallet of the Litecoin Foundation
+[![Loafwallet](/images/Download_AppStore.png)](https://itunes.apple.com/us/app/loafwallet/id1119332592)
 
-## The easy and secure Litecoin wallet
-
-LoafWallet is the best way to get started with Litecoin. Our simple, streamlined design is easy for beginners, yet powerful enough for experienced users.
+Litewallet is the best way to get started with Litecoin. Our simple, streamlined design is easy for beginners, yet powerful enough for experienced users.
 
 ### Completely decentralized
 
