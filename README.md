@@ -5,7 +5,7 @@ Litewallet is the best way to get started with Litecoin. Our simple, streamlined
 
 ### Completely decentralized
 
-Unlike other iOS Litecoin wallets, **Litewallet** is a standalone Litecoin client. It connects directly to the Litecoin network using [SPV](https://en.bitcoin.it/wiki/Thin_Client_Security#Header-Only_Clients) mode, and doesn't rely on servers that can be hacked or disabled. Even if LoafWallet is removed from the App Store, the app will continue to function, allowing users to access their money at any time.
+Unlike other iOS Litecoin wallets, **Litewallet** is a standalone Litecoin client. It connects directly to the Litecoin network using [SPV](https://en.bitcoin.it/wiki/Thin_Client_Security#Header-Only_Clients) mode, and doesn't rely on servers that can be hacked or disabled. Even if **Litewallet** is removed from the App Store, the app will continue to function, allowing users to access their money at any time.
 
 ### Cutting-edge security
 
