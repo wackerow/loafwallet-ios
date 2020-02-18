@@ -1,0 +1,5 @@
+scheme "Debug-loafwallet"
+clean true
+code_coverage true
+device "iPhone 8"
+
